@@ -1,0 +1,10 @@
+{
+  "demands": [
+    {"from": "A", "to": "F", "amount": 2000},
+    {"from": "F", "to": "A", "amount": 1000},
+    {"from": "A", "to": "G", "amount": 500},
+    {"from": "G", "to": "A", "amount": 1000},
+    {"from": "F", "to": "G", "amount": 1000},
+    {"from": "G", "to": "F", "amount": 500}
+  ]
+}
